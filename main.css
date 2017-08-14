@@ -1,7 +1,11 @@
 p {
 	color: red;
 }
+
 .img-circle {
-    border-radius: 50%;
-   
+    border-radius: 50%; 
+}
+
+tr.border_bottom td {
+  border-bottom:1pt solid black;
 }
